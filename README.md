@@ -1,3 +1,2 @@
-#Why I am doing this?
-
-I hate myself. I am a slave, so I do webdev and torture myself.
+### Github-Finder
+No purpose of doing this to be honest, just learning and experimenting, understanding some mechanics behind it.
